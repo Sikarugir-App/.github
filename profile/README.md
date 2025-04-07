@@ -22,10 +22,3 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 
 [![ko-fi](https://img.shields.io/badge/kofi-Donate-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/gcenx)
 [![](https://dcbadge.limes.pink/api/server/vJTjDyzJM2?compact=true)](https://discord.gg/Kwj7wUVNfp)
-
-<br>
-
-## Members
-- [Vitor](https://github.com/vitor251093) writting Kegworks-App from the ground up.
-- [PaulTheTall](https://www.paulthetall.com/) constant test data and finding bugs.
-- [Gcenx](https://github.com/Gcenx) maintains the Wine Engines & Wrapper.
