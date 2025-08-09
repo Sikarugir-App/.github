@@ -3,17 +3,13 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 
 <br>
 
+## Currently updating all urls/branding and will upload replacent apps when thete complete.
+
 > [!NOTE]
 > How to install Sikarugir using [homebrew](https://brew.sh/)
 > ```
 > brew upgrade
 > brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
-> ```
->
-> How to install using [MacPorts](https://www.macports.org/)
-> ```
-> port selfupdate
-> port install sikarugir
 > ```
 
 <br>
