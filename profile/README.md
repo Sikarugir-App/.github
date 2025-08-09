@@ -1,4 +1,4 @@
-# Welcome to Kegworks
+# Welcome to Sikarugir
 A user-friendly tool used to make wine wrapped ports of Windows software for macOS.
 
 <br>
