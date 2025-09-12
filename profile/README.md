@@ -12,7 +12,7 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 
 <br>
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pCgYxRPIqjE/0.jpg)](http://www.youtube.com/watch?v=pCgYxRPIqjE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pCgYxRPIqjE/0.jpg)](http://www.youtube.com/watch?v=pCgYxRPIqjE&t=23s)
 
 <br>
 
