@@ -12,6 +12,8 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 
 <br>
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pCgYxRPIqjE/0.jpg)](http://www.youtube.com/watch?v=pCgYxRPIqjE)
+
 <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
