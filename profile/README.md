@@ -7,7 +7,7 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 > How to install Sikarugir using [homebrew](https://brew.sh/)
 > ```
 > brew upgrade
-> brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
+> brew install --cask Sikarugir-App/sikarugir/sikarugir
 > ```
 
 <br>
