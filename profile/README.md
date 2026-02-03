@@ -9,8 +9,8 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 > brew upgrade
 > brew install --cask Sikarugir-App/sikarugir/sikarugir
 > ```
-
-Apple Silicon systems also require Rosetta2
+>
+> Apple Silicon systems also require Rosetta2
 > ```
 > /usr/sbin/softwareupdate --install-rosetta --agree-to-license
 > ```
