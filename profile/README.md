@@ -23,4 +23,4 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
-[![](https://dcbadge.limes.pink/api/server/hD48GFpWz5?compact=true)](https://discord.gg/NTrT4QUvVS)
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/NTrT4QUvVS?compact=true)](https://discord.gg/NTrT4QUvVS)
